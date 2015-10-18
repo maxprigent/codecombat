@@ -838,8 +838,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     latest_achievement: "Réalisation Récentes"
     playtime: "Temps de jeu"
     last_played: "Dernière période de jeu"
-#    leagues_explanation: "Play in a league against other clan members in these multiplayer arena instances."
-
+    leagues_explanation: "Jouer dans une league contre d'autres membres du clan dans ces arenes multijoueurs"
 #  courses:
 #    course: "Course"
 #    courses: "courses"
